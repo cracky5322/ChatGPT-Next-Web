@@ -167,9 +167,9 @@ function _Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>ChatGPT Next</div>
+          <div className={styles["sidebar-title"]}>ChatGPT for OrStudio.tw</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
+            Technical support is provided by <a href="https://github.com/Yidadaa/ChatGPT-Next-Web" target="_blank">ChatGPT-Next-Web</a>
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
